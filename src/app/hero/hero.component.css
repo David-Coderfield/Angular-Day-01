@@ -1,0 +1,10 @@
+.jumbotron {
+	background-image: url("/assets/snowboarder-690779_1280.jpg");
+	background-size: cover;
+	text-shadow: 3px 3px 5px #000;
+}
+
+.btn {
+	background-color: transparent;
+	border-width: 3px solid #fff;
+}
